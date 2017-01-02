@@ -1,0 +1,13 @@
+.topnav{
+	border-radius: 0px;
+}
+.product-card{
+	margin-left: 4%;
+	margin-right: 4%;
+	margin-bottom: 8%;
+}
+
+
+.product-title{
+	min-height: 2.2em;
+}

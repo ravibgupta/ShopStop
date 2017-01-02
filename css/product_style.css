@@ -1,0 +1,42 @@
+.icon{
+	max-width: 50%;
+	max-height: 50%;
+}
+
+.topnav{
+	border-radius: 0px;
+}
+
+.carousel-images{
+	max-height: 700px;
+}
+
+.card-Image{
+	max-height: 100px;
+	max-width: 100px;
+}
+
+.top-rated-title{
+	min-height: 40px;
+}
+
+.top-rated-row{
+	padding-right: 6em;
+	padding-left: 6em;
+}
+
+.company-name{
+	margin-top: 7px;
+}
+
+.price{
+	font-size: 20px;
+}
+
+.add-to-cart{
+	margin-top:70px;
+}
+
+#description{
+	margin-top: 80px;
+}
